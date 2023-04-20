@@ -3,7 +3,7 @@
 - IaC
   - [terraform](https://github.com/gerraywang/china-learning-terraform.git)
 - CI/CD 
-  - [code](https://github.com/gerraywang/)
+  - [code](https://github.com/gerraywang/china-gcp-learning-code/tree/develop)
   - [config](https://github.com/gerraywang/china-gcp-learning-config.git)
   - [migration](https://github.com/gerraywang/china-learning-data-migration.git)
 
